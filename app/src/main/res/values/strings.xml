@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LayoutManager</string>
+    <string name="add">添加</string>
+    <string name="remove">删除</string>
+</resources>
